@@ -1,1 +1,1 @@
-# CV - This contain's my CV.
+# CV - This repository contain's my CV.
